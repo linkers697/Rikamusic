@@ -51,7 +51,7 @@ class Userbot(Client):
         async def setup_assistant(client, number):
             try:
                 await client.start()
-                await client.join_chat("AuraVisual")
+                await client.join_chat("denji_god_07")
                 await client.join_chat("HeavenChatGroup")
             except Exception:
                 pass
