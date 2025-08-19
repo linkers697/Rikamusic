@@ -15,7 +15,7 @@ def start_panel(_):
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url="https://t.me/CrunchyrollAsia"
+                url="https://t.me/New_animes_hindi_official_dub"
             )
         ]
     ]
@@ -41,7 +41,7 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text=_["S_B_6"], web_app=WebAppInfo(url="https://usesenses.netlify.app")), 
-            InlineKeyboardButton(text=_["S_B_5"], url="https://t.me/CrunchyrollAsia")
+            InlineKeyboardButton(text=_["S_B_5"], url="https://t.me/New_animes_hindi_official_dub")
         ]
     ]
     return buttons
