@@ -8,13 +8,13 @@ answer.extend(
         InlineQueryResultArticle(
             title="Pᴀᴜsᴇ",
             description=f"ᴩᴀᴜsᴇ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://files.catbox.moe/d4z1dl.jpg",
+            thumb_url="https://files.catbox.moe/c7ql7i.jpg",
             input_message_content=InputTextMessageContent("/pause"),
         ),
         InlineQueryResultArticle(
             title="Rᴇsᴜᴍᴇ",
             description=f"ʀᴇsᴜᴍᴇ ᴛʜᴇ ᴩᴀᴜsᴇᴅ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://files.catbox.moe/d4z1dl.jpg",
+            thumb_url="https://files.catbox.moe/c7ql7i.jpg",
             input_message_content=InputTextMessageContent("/resume"),
         ),
         InlineQueryResultArticle(
@@ -26,7 +26,7 @@ answer.extend(
         InlineQueryResultArticle(
             title="Eɴᴅ",
             description="ᴇɴᴅ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://files.catbox.moe/d4z1dl.jpg",
+            thumb_url="https://files.catbox.moe/c7ql7i.jpg",
             input_message_content=InputTextMessageContent("/end"),
         ),
         InlineQueryResultArticle(
@@ -38,7 +38,7 @@ answer.extend(
         InlineQueryResultArticle(
             title="Lᴏᴏᴩ",
             description="ʟᴏᴏᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ ᴛʀᴀᴄᴋ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://files.catbox.moe/d4z1dl.jpg",
+            thumb_url="https://files.catbox.moe/c7ql7i.jpg",
             input_message_content=InputTextMessageContent("/loop 3"),
         ),
     ]
