@@ -139,7 +139,7 @@ async def send_audio(client: Client, message: Message, video_id: str):
         title=title,
         performer="RiteshMusic",
         duration=duration,
-        caption=f"📻 <b><a href=\"{url}\">{title}</a></b>\n🕒 <b>Duration:</b> {duration_str}\n🔧 <b>Powered by:</b> <a href=\"https://t.me/FRIENDSZONEOPX\">RiteshMusic</a>",
+        caption=f"📻 <b><a href=\"{url}\">{title}</a></b>\n🕒 <b>Duration:</b> {duration_str}\n🔧 <b>Powered by:</b> <a href=\"https://t.me/HeavenChatGroup\">RiteshMusic</a>",
         thumb=thumb_path if thumb_path else None,
         reply_markup=InlineKeyboardMarkup([
             [InlineKeyboardButton("🎧 More Music", url="https://t.me/HeavenChatGroup")],
